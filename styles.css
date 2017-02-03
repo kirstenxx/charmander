@@ -1,0 +1,30 @@
+.full {
+width:320px;
+border-style:outset;
+margin:auto;
+padding:.5em;
+}
+
+.picture {
+width:300px;
+height:auto;
+}
+
+.card {
+border-style:solid;
+border-width:thin;
+padding:.5em;
+}
+
+.fact {
+font-style:italic;
+}
+
+.info {
+text-align:left;
+list-style-type:none;
+}
+
+.label {
+font-weight:700;
+}
